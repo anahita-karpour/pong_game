@@ -3,7 +3,6 @@
 A classic two-player Pong game built from scratch in Python using the built-in `turtle` module, with an object-oriented design.
 
 ![Pong Demo](demo.gif)
-<!-- Replace with a screenshot or GIF of gameplay. Delete this line if you don't have one yet. -->
 
 ## Features
 
